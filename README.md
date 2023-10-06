@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20there👋&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=✨Welcome%20to%20my%20world✨&fontSize=50)
 <!--
 **nanhungrybin/nanhungrybin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
 
 Here are some ideas to get you started:
 
